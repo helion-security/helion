@@ -4,7 +4,7 @@
 Helion is a data-driven framework that models the regularities of user-driven home automation, generates natural home automation scenarios, and provides stakeholders with tools to use the scenarios and obtain actionable outcomes.
 
 ### Getting Started
-
+#### NOTE: We are currently working on deanonymizing the data. We will pubilish the code and the dataset by the conference date i.e., May 18, 2020.
 #### 1. Download necessary files:
 * [MITLM](https://github.com/mitlm/mitlm) - MIT Language Modeling Toolkit
 * [Python Daemon 1.5.5](https://pypi.python.org/pypi/python-daemon/) - Library to implement a well-behaved Unix daemon process.

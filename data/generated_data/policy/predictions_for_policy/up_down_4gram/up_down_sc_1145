@@ -1,0 +1,12 @@
+<Heater,switch,on>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<null,locationMode,home>
+<null,time,evening>
+<Light_Bulb,switch,on>
+<Shades/Blinds,contact,closed>
+<Illuminance_Sensor,illuminance,lesser>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Temperature_Sensor,temperature,lesser>
+<Thermostat,thermostat,increased>

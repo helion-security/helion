@@ -1,0 +1,2 @@
+﻿<null,locationMode,away> <Temperature_Sensor,temperature,greater> <Smart_Feeder,weight,lesser> <Phone,notification,notify> <Air_Conditioner,thermostat,decreased>
+<Motion_Sensor,motion,detected> <Security_Camera,image,take> <Security_Camera,image,detected> <Phone,notification,notify>

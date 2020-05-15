@@ -1,0 +1,13 @@
+<Security_Alarm,alarm,siren>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<Presence_Sensor,presence,not_present>
+<Robot_Vacuum,switch,on>
+<null,locationMode,away>
+<Gas_Stove,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Security_Alarm,alarm,siren_strobe>
+<Shades/Blinds,contact,opened>

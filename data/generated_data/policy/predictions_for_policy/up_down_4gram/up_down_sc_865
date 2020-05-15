@@ -1,0 +1,17 @@
+<Smart_TV,channel,fixed_value>
+<null,locationMode,kids>
+<Gas_Stove,switch,off>
+<Induction_Cooktop,switch,off>
+<Microwave_Oven,switch,off>
+<Smart_TV,channel,fixed_value>
+<Sleep_Monitor,sleeping,not_detected>
+<null,time,morning>
+<Temperature_Sensor,temperature,lesser>
+<Door_Sensor,contact,opened>
+<Phone,notification,notify>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,off>
+<Fan,switch,off>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Motion_Sensor,motion,detected>

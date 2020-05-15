@@ -1,0 +1,17 @@
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Thermostat,thermostat,increased>
+<Water_Heater,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,time,night>
+<Electric_Blanket,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>
+<Humidity_Sensor,humidity,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>

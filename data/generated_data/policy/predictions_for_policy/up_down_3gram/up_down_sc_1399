@@ -1,0 +1,16 @@
+<Security_Camera,switch,on>
+<null,locationMode,home>
+<Door_Lock,lock,unlocked>
+<null,time,morning>
+<Presence_Sensor,presence,present>
+<Smart_Mirror,switch,on>
+<Speaker,switch,on>
+<Light_Bulb,switch,on>
+<Motion_Sensor,motion,not_detected>
+<Temperature_Sensor,temperature,greater>
+<null,time,night>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>
+<null,time,night>
+<CO_Detector,carbonMonoxide,detected>
+<null,locationMode,away>

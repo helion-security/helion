@@ -1,0 +1,15 @@
+<Air_Conditioner,thermostat,auto>
+<Glass_Break_Detector,shock,detected>
+<Sleep_Monitor,sleeping,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Camera,image,take>
+<null,locationMode,kids>
+<Weather_Station,rain,true>
+<Door_Lock,lock,locked>
+<Phone,notification,notify>
+<Shades/Blinds,contact,closed>
+<Smoke_Detector,smoke,detected>
+<Security_Alarm,alarm,siren>
+<Coffee_Maker,switch,off>
+<null,time,evening>
+<Light_Bulb,colorValue,fixed_value>

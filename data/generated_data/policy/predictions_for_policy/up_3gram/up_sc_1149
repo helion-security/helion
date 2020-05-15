@@ -1,0 +1,14 @@
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Smoke_Detector,smoke,detected>
+<null,locationMode,away>
+<Security_Alarm,alarm,siren>
+<Air_Conditioner,thermostat,decreased>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,increased>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<Electric_Blanket,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>

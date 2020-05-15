@@ -1,0 +1,14 @@
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>
+<null,time,night>
+<Humidifier,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>
+<Air_Cooler,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>

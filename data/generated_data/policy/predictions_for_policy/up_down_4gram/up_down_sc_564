@@ -1,0 +1,14 @@
+<Gas_Sensor,odorLevel,greater>
+<Security_Alarm,alarm,siren>
+<null,time,night>
+<Shades/Blinds,contact,closed>
+<Shades/Blinds,contact,closed>
+<null,time,night>
+<Light_Bulb,switch,off>
+<Smart_TV,switch,off>
+<Refrigerator,temperature,greater>
+<Button,button,pushed>
+<Light_Bulb,switch,off>
+<Button,button,pushed>
+<Light_Bulb,switch,off>
+<Smart_TV,switch,off>

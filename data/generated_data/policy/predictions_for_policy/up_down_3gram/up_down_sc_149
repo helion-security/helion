@@ -1,0 +1,15 @@
+<Smoke_Detector,smoke,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Thermostat,thermostat,increased>
+<Thermostat,thermostat,increased>
+<Illuminance_Sensor,illuminance,lesser>
+<Motion_Sensor,motion,detected>
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Smart_TV,switch,on>
+<Audio_Player,switch,off>
+<Temperature_Sensor,temperature,lesser>
+<Thermostat,thermostat,auto>

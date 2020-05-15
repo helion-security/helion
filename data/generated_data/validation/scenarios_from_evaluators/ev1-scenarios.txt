@@ -1,0 +1,2 @@
+﻿<null,time,night> <Door_Lock,lock,unlocked> <Motion_Sensor,motion,detected> <Water_Heater,switch,on>
+<Weather_Station,weather,notify> <Weather_Station,weather,notify> <Phone,notification,notify>

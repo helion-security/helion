@@ -1,0 +1,14 @@
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Door_Lock,lock,unlocked>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<null,locationMode,away>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Sleep_Monitor,sleeping,detected>
+<Light_Bulb,switch,off>
+<Door_Sensor,contact,opened>
+<Light_Bulb,switch,on>
+<null,time,noon>
+<Robot_Vacuum,switch,on>

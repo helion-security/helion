@@ -1,0 +1,13 @@
+<null,time,night>
+<Lighting_Remote,colorValue,fixed_value>
+<Gas_Sensor,odorLevel,greater>
+<Security_Alarm,alarm,siren>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Fan,switch,on>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Smart_Assistant,voice,command>
+<Light_Bulb,switch,on>

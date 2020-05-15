@@ -1,0 +1,738 @@
+===========================================================================
+3gram, Up_Down FInal 30
+===========================================================================
+
+126
+Window opened when Thermostat is in cooling mode.
+
+
+149
+Motion Sensor detects motion when illuminance sensor detects low illuminance. Might need be a a problem but light should have turned on.
+
+152
+Security camera takes image when user is present in the home.
+
+179
+Theremostat is in heating mode, AC is in cooling mode.
+Audio Player turned on when user is on vacation.
+Light bulb is turned on when user is on vacation.
+
+216
+Alarm in siren mode without any readson.
+Alarm didn't go off when gas sensor was detected. User wasn't notified either.
+User wasn't notified about the temperature of refrigerator getting above normal
+
+
+231
+Alarm and Phone was not notified when glass break was detected.
+
+300
+Alarm didn't go off when gas sensor was detected. User wasn't notified either.
+Alarm is fired without any reason.
+
+314
+Audio Player on when user is on vacation
+Bread Maker on when user is on vacation.
+Water Heater on when user is on vacation.
+Coffee Maker on when user is on vacation.
+Rice Cooker on when user is on vacation.
+
+
+323
+User is not notified about increasing energy usage.
+
+
+339
+Heater switch on but is not reverted back when  moisture decreased.
+
+362
+Security Alarm goes off in vacation mode i.e., mode shouldn't be changed to vacation mode after security alarm goes off.
+Security Alarm fired without any reason.
+Lights are turned off when becaon decvice is present.
+
+365
+Siren goes off after blood pressure is low without any security sensitive reaosn.
+
+395
+Garden Sprinkler turned on at night.
+
+420
+Security alarm fired without any reaosn.
+
+451
+Humidifier and AC are on.
+
+472
+Door is unlocked  after user is away.
+Fan is turned on after user is away.
+Audio player on when user is away.
+
+476
+Uaer is not vacation but Coffee Maker is on
+Audio Player on when user is on not_vacation
+Bread Maker on when user is on not_vacation.
+Water Heater on when user is on note_vacation.
+Coffee Maker on when user is on bite_vacation.
+
+
+546
+User is awayk, beacon doesn't detect presence but light is an.
+
+577
+Induction cooktop is on even after user is away
+
+599
+Usr is in vacation mode and garage door is still opened.
+Door remains unlocked in the user vacation mode.
+
+AC is set to cooling mode when the temperature is lower than normal
+
+621
+Electric blanket is switched on in vacation mode. Even though sleep monitor detects sleep, the electric blanket might be at home which need not be turned on.
+Security alarm fired without any reason.
+
+660
+Garden Sprinkler turned on at night.
+
+724
+User is not notified about the pulse reading greater than normal
+Smoke is detected and temperature is greater than normal but user is not notified or alarm isn't fired right away.
+
+
+850
+Security alarm fired without any reason.
+Door is locked after alarm goes off.
+
+864
+Alarm does not siren and notification isn't sent to user's phone when CO is detected in kids mode.
+
+896
+Air Purifier is switched on when gas leak is detected.
+Light is switched off when gas leak is detected.
+
+922
+Phone wasn't notified when Blood Pressure Monitor detects high blood pressure.
+
+945
+Fire Sprinkler on for no reason,
+Coffee Maker is on when fire sprinkler is on
+Bread maker is on when fire sprinkler is on
+water heater is on when fire sprinkler is on
+
+990
+Air Purifier is switched on when smoke is detected.
+
+
+1043
+Door is open when user is away.
+Smart Assistant issues voice command when user is away.
+Speaker is turned on at night but user is away.
+Door is opened but in a locked state. This might be a problem where user assumed door is locked when he's away but it might be open and locked. ==> IMP
+
+
+1210
+Coffee Maker should not remain on after user changes the mode to away.
+Bread maker should not remain on after user changes the mode to away.
+water heater should not remain on after user changes the mode to away.
+
+1223
+Motion is detected after user is away.
+Light bulb turns on because of motion when user is away.
+Door is opened after user is away.
+Light bulb turns on because of door open when user is away.
+Coffee Maker should not remain on after user changes the mode to away.
+Bread maker should not remain on after user changes the mode to away.
+water heater should not remain on after user changes the mode to away.
+
+1234
+Door is opened when user is away.
+Car automation turned on when user is away.
+Garage door opened when user is away.
+
+1390
+Garage door remains open after user is away.
+
+1399
+Security camera remains on when user is home.
+
+1407
+Thermostat in auto mode when window is open.
+Alarm not fired after CO is detected.
+Smart TV on afer CO is detected.
+Sleeping detected with garage door open.
+Sleeping detected with TV on.
+
+1419
+Security Camera takes image when user is home.
+
+
+1442
+Induction cooktop remains on after user is away.
+Sleeping is detected but induction cooktop is on. --> yay
+
+1445
+Lights are turned off after smoke is detected even though user is away.
+
+
+===========================================================================
+4gram, Up_Down FInal 30
+===========================================================================
+
+
+5
+Electric blanket remains on in vacation mode.
+Door is opened when user is away.
+CO detected but alarm wasn't fired.
+
+84
+Garage door remains open after presence is detected.
+Garage door remains open at night time.
+
+97
+Door remains unlocked when sleeping is detected.
+Door is opened after sleeping is detected.
+Door is opened but the presence is not detected
+Door is unlocked state but presence is not detected.
+
+99
+Door is locked after gas leak is detected
+Door is locked after glass break is detected.
+LocationMode changes to home after glass break detected and user is not notified.
+Potential safety issue.
+Fan is turned on after user is away.
+Notification related to traffic is announced when user is not home.
+
+
+116
+Alarm goes to siren mode without any reason. 
+
+138
+Water leak is detected in vacation mode. Alarm goes off but no notification is sent to the user.
+
+145
+Coffee Maker should not remain on after user changes the mode to vacation.
+Bread maker should not remain on after user changes the mode to vacation.
+water heater should not remain on after user changes the mode to vacation.
+--> These kinds of routines can be harmful if automated based on time because it can directly affect multiple devices at once in case they're not associated with location mode. For example if they turn on early in the morning but the user is away, multiple devices will be affected.
+
+153
+Temperature increases after smoke detects tamper. User gets home after that.
+Light immediately turns on after it's turned on when beacon detects presence. The subsequent change in device state might be a state change from an adversary.
+
+195
+Security camera takes picture when the window is opened in the morning.
+
+9:24
+
+507:
+-Fan on when user away.
+
+583:
+-Door unlocked when user away.
+
+698:
+-TV on when user away.
+-Bread maker on when user in vacation.
+-Coffee maker on when user in vacation.
+-Water heater on when user in vacation.
+-Rice cooker on when user in vacation.
+
+763:
+-Fan on when user away.
+
+1106:
+-Fan on when user away.
+-Security camera on when user home.
+
+1290:
+-Security camera on when user is detected to be present at home, by the presence sensor.
+
+1343:
+-Coffee maker on when user away.
+
+
+===========================================================================
+3gram, Down_UP FInal 30
+===========================================================================
+
+21
+Door lock remains unlocked after user is home and time is night.
+Security Alarm is turned on without any reason.
+Light was switched off when glass break is detected
+
+
+48
+Gas Stove is turned on when user is away
+Speaker is turned on when user is away
+Door is unlocked when user is away
+
+77
+Security Alarm is fired without any reason.
+TV is turned on in vacation mode
+Light is on in vacation mode.
+
+98
+Siren isn't activated when the carbonmonoxide is detected.
+Siren isn't activated when the smoke is detected.
+
+112
+Security Alarm is turned on without any reason.
+
+128
+Security Alarm is turned on without any reason.
+Door is unlocked when user is away
+Fan is on when user is away.
+Door is locked after gas sensor detects high odor level
+
+138
+Siren isn't activated when the carbonmonoxide is detected.
+Door is locked when CO is detected.
+TV turns on when user is away
+
+189
+Security Alarm is turned on without any reason.
+
+190
+Siren isn't activated when the carbonmonoxide is detected.
+Glass break is detected when user is away
+Door is unlocked in vacation mode
+Fire sprinkler is turned on without any reason.
+Water Valve is closed in fire sprinkler is turned on.
+
+207
+Security Alarm is turned on without any reason.
+
+287
+Phone is notified without any reason.
+Siren isn't activated when the carbonmonoxide is detected.
+Audio Player on when user is away
+Smart Assistant is notifying when user is away.
+Door is unlocked when user is away
+Siren is activated without any reason.
+
+308
+Siren is activated without any reason.
+Security Camera is turned on when user is home.
+
+345
+Security Camera is on when user is home.
+Siren is activated without any reason.
+
+353
+Coffee Maker is on when carbonMonoxide is detected
+Robot Vacuum is on when carbonMonoxide is detected
+Sleep Monitor is turned on when carbonMonoxide is detected.
+Door is locked after carbonMonoxide is detected
+Shades are opened after user is away.
+
+422
+Garden Sprinkler is turned on at night.
+Door is unlocked at night.
+Air Purifier is turned on in vacation mode.
+Shades/Blinds open in vacation mode
+Light bulb turned on in vacation mode.
+
+429
+Door is unlocked at night and remains the same?
+Siren isn't activated when the carbonmonoxide is detected.
+
+565
+Phone is notified without any reason.
+Motion is detected when user is away.
+Tv is on when user is away.
+
+576
+Fire sprinkler turns on without any reason.
+Water Valve is closed when sprinkler is on
+Water heater is turned on when Gas leak is detected
+Rice cooker is on when gas leak is detected.
+
+579
+Gas stove is on when user is on vacation
+Speaker is on when user is on vacation
+Siren isn't activated when the smoke is detected.
+Coffee Maker is on when user is away and it is night time.
+Water heater is on when user is away and it is night time.
+Rice cooker is on when user is away and it is night time. (This might be okay)
+
+605 --> Find json
+Coffee Maker is on in vacation mode
+Shades Blinds opened in vacation mode.
+Glass break detected but no alarm was fired.
+
+643
+Garage Door remains open in away mode
+Water heater turned on in away mode.
+
+678
+Siren is activated without any reason.
+Siren isn't activated when the smoke is detected.
+
+700
+Water Leak is detected in kid's mode
+Switches between vacation, away and kids mode.
+Garage door opened in away modde.
+Light bulb turned on in away mode.
+Coffee Maker is on when user is away.
+Water heater is on when user is away.
+Rice cooker is on when user is away.
+
+703 
+Siren isn't activated when the gas leak is detected.
+TV is on when user is way
+
+709
+Audio Player is on when alarm is going off.
+Siren isn't activated when the smoke is detected.
+Siren isn't activated when the gas leak is detected.
+
+753
+Shades are closed after alarm goes off.
+Siren isn't activated when the smoke is detected.
+
+787
+Fire Sprinkler is activated without any reason.
+Glass break is detected in vacation mode
+
+
+853
+Door bell is pushed when user is home but notification wasn't sent.
+Coffee Maker is on when user is away
+Siren is activated without any reason.
+
+867
+Sprinkler is turned on at night ? _-> might not be a probem
+
+928
+Sleeping is detected even when glass break was detected.
+
+949
+Coffee Maker is on when user is away but it is afternoon
+Water heater is on when user is away but it is afternoon
+Rice cooker is on when user is away but it is afternoon
+Motion is detected when user is away.
+Siren is activated without any reason.
+
+
+1056
+Siren is activated without any reason.
+User goes to vacation mode after glass break is detected.
+Coffee Maker is on when user is away but it is afternoon
+Water heater is on when user is away but it is afternoon
+Rice cooker is on when user is away but it is afternoon
+
+
+1104 
+Siren is activated when user is home and door is unlocked.
+Security camera takes image when user is home. --> Privacy
+Door is unlocked when the user is away
+Door is locked when security alarm is fired.
+Security alarm is turned off when user is away.
+
+1118
+Microwave oven timer is completed but isn't turned off
+Coffee Maker turned on when user is away.
+Shades/Blinds opened when user is away
+Coffee Maker is on when user is away but it is noon
+Water heater is on when user is away but it is noon
+Rice cooker is on when user is away but it is noon.
+
+
+
+1129
+Air Conditioner remains on when window is opened.
+Thermostat goes to auto mode when window is opened.
+ 
+
+1157
+Siren is activated without any reason.
+Humidifer and Fan is turned on at the same time. https://www.quora.com/Can-I-use-a-humidifier-and-an-AC-at-the-same-time-in-a-room
+Humidifier and Thermostat is turned on at the same time. https://answers.yahoo.com/question/index?qid=20110115000435AAG3B3m
+
+Thermostat is in auto made when user is on vacation
+Fan is on when user is on vacation.
+
+1214
+Door is locked when CO is detected
+Fan and Humidifier are on at the same time.
+
+
+1264
+Siren isn't activated when the smoke is detected.
+Siren isn't activated when the gas leak is detected.
+
+
+1300
+Fire Sprinkler turned on without smoke
+Door is unlocked after user is away
+Lighting Remote is turned on after user is away.
+
+
+
+1317
+Fire Sprinkler turned on without smoke
+Water Valve is closed when sprinkler is on.
+Siren is activated without any reason.
+
+1319
+Door remains opened after user is away.
+Thermostat is in auto mode but the door is open.
+
+1384
+Alarm isn't fired after CO is detected.
+Gas Stove is on after user is away.
+Speaker is on after user is awayDoor is unlocked when user is away
+Fan is on when user is away.
+Siren is activated without any reason.
+
+
+1389
+Door is unlocked when user is away
+Fan is on when user is away.
+Air Purifier is turned on when user is on vacation.
+SECURITY alarm goes off for no reason in vacation mode.
+
+1404
+Siren isn't activated when the gas leak is detected.
+
+1464
+Fan and hUmidifier are on at the same time.
+
+
+===========================================================================
+4gram, Down_UP
+===========================================================================
+
+5
+Audio Player turned on when user is away.
+User sleeping is detected after glass break detection 
+
+27
+Lights are turned off after glass break is detected.
+Speaker is turned on after night time.
+
+47
+Alarm isn't fired after CO is detected.
+Door is unlocked when user is away.
+Fan is on when user is away.
+Siren is activated without any reason.
+Motion is detected when user is away.
+
+95
+Dishwasher in ready mode when user is on vacation.
+Security alarm strobing when user is on vacation.
+
+116
+Siren is activated without any reason.
+
+146
+TV is turned on when after CO is detected.
+Thermostat turned on after CO is detected. Thermostat can leak CO gas?
+
+147
+Alarm isn't fired after CO is detected.
+Alarm isn't fired after smoke is detected.
+Alarm isn't fired after glass break is detected.
+Door is locked when gas is detected.
+
+173
+Fan and HUmidifier are turned on at the same time.
+Humidifier and Thermostat are turned on at the same time.
+Microwave oven timer is completed but not turned off.
+
+199
+User isn't notified about the water leak.
+Alarm was not fired for water leak
+Alarm isn't fired after CO is detected.
+
+234
+TV is on when user is away
+Gas stove switches on because it's evening but user is away.
+Speaker switches on because it's evening but user is away.
+Coffee Maker is on when user is away but it is evening.
+Water heater is on when user is away but it is evening.
+Rice cooker is on when user is away but it is evening.
+Air Purifier switches on but user is away
+Smart Assistant notifies the user but user is away.
+
+
+242
+Alarm isn't fired after CO is detected.
+Audio Player turns on when user is away.
+Shades/Blinds open when user is away
+Coffee Maker is on when user is away
+Light Bulb is on when user is away
+Door unlocked when user is away.
+Alarm is turned on and off when user is away without reason.
+Speaker is turned on when user is away.
+
+
+279
+Siren is activated without any reason.
+Audio Player is turned on when there is CO.
+
+280
+Security camera suddenly turns on when user is home.
+Alarm isn't fired after CO is detected.
+Alarm isn't fired after smoke is detected.
+
+
+290
+Door is locked after CO is detected
+Alarm isn't fired after CO is detected.
+Alarm isn't fired after smoke is detected.
+
+375
+Siren is activated without any reason.
+
+437
+Door is unlocked after night time.
+
+461
+Shades/Blinds opened after night time.
+Water heater turned on after night time.
+Door is unlocked after night.
+Audio player turned on after night time.
+
+564
+Light bulb turned on when user isa way.
+Speaker muted when user is away.
+Security Camera switched on at night.
+
+598
+Alarm only strobes when CO is detected.
+Air Cooler turned on whn user is away.
+Presence detected after user is away.
+
+672
+Alarm isn't fired after glass break is detected.
+Phone notification isn't happening after glass break.
+Fire Sprinkler is turned on without any reason.
+Coffee Maker is turned on after fire sprinkler is turned on
+Bread maker is turned on after fire sprinkler is turned on
+Rice cooker is turned on after fire sprinkler is turned on
+Alarm isn't fired when fire sprinkler is on
+Alarm isn't fired when smoke is detected.
+
+688
+Security Camera is turned on in the kids mode.
+
+696
+User isn't notified about dust level increasing.
+Door is locked after dust level increases.
+Alarm isn't fired after CO is detected.
+Alarm isn't fired after smoke is detected.
+Siren is activated without any reason.
+
+758
+Glass break detected in kids mode but no phone notification or alarm is sirened.
+Robot vacuum is turned on in the kids mode.
+Door is open in kids mode.
+Coffee Maker is on when user is away but it is vacation.
+Water heater is on when user is away but it is vacation.
+Rice cooker is on when user is away but it is vacation.
+Alarm isn't fired after CO is detected.
+
+
+789
+Shades are closed after smoke is detected and alarm is not sirened.
+
+868
+Doors are unlocked in kids mode.
+Audio Players are turned on along with Security alarm.
+Door is locked in kids mode after Gas leak is detected.
+Door is locked in kids mode after Gas leak is detected and shades are closed.
+
+877
+At night time, window is opened.
+
+
+895
+Away mode followed by kids mode. Normally kids mode seems like something activated by an adult. IF the away mode is based on presence sensor, this might affect the kids mode functionalities.
+
+1006
+Temperature of Coffee Maker is greater than normal but not turned off.
+Security camera takes image in the kids mode. 
+Alarm isn't fired and user isn't notified after smoke is detected.
+
+
+1012
+Door is unlocked in kids mode.
+Security camera takes image in kids mode.
+
+1018
+Door is unlocked in kids mode.
+Blood Pressure is lesser than normal in kids mod0e.
+Siren is activated without any reason.
+
+1020
+Door is locked when smoke is detected.
+Oil warmer switches on when smoke is detected.
+Security camera takes image when user is home.
+
+1033
+Water valve is closed when sprinkler is on.
+Alarm isn't fired after CO is detected.'
+
+1069
+CO is detected when pulse is low. --> can be because of CO
+Alarm isn't fired after CO is detected.'
+User isn't notified when the pulse is low and CO is detected.
+Door is locked after CO is detected and pulse is low and alarm isn't fired.
+
+
+1077
+Gas leak odor increases after Sleeping is detected
+Gas leak odor increases after Sleeping is detected but alarm isnot sirened.
+Lighting remote off when security alarm is in siren mode because of CO detection.
+Air purifier turned on while CO is detected.
+
+1105
+Security Camera turns on after user is home.
+AC turns off after temperature increases.
+Siren is activated without any reason.
+user isn't notified about the temperature decreasing below normal level
+
+1132
+Air Cooler is on when fire sprinkler is turned on and Smoke is detected.
+Door bell is pushed when house is potentially on fire.
+
+1201
+Siren is activated without any reason.
+Security Camera takes image without any reason when user is home.
+
+1235
+Siren is activated without any reason.
+Door is locked after gas is detected.
+Light is turned off after gas is detected.
+Shades are closed after gas is detected.
+
+1317
+Siren is activated without any reason.
+Too many switches between modes. Possible attack.
+Water leak is detected but no notification is provided to the users.
+
+1409
+News notification when user is away.
+Water heater on when user is away.
+Security alarm turned off when smoke is detected and user is away.
+
+1423
+Alarm isn't fired after CO is detected.
+Too many mode changes
+*Smart TV channel change when user is away.*
+
+1457
+Alarm isn't fired after CO is detected.'
+Thermostat and Fan and AC are all turned on
+
+1463
+Temperature is greater than normal but AC is turned off after that.
+Temperature is greater than normal but Fan is turned off after that.
+Fan and AC are turned on at the same  time
+Fan, AC and humidifier are turned on at the same time.
+Fan, AC and humidifier and thermostat are turned on at the same time.
+
+1476
+Door is locked after gas is detected.
+user isn't notified with alarm or phone when glass break is detected while user is sleeping.

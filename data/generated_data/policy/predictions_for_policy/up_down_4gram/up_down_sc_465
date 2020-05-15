@@ -1,0 +1,16 @@
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<null,time,morning>
+<Bread_Maker,switch,on>
+<Coffee_Maker,switch,on>
+<Water_Heater,switch,on>
+<Rice_Cooker,switch,on>
+<Phone,notification,notify>
+<Smoke_Detector,smoke,detected>
+<Security_Alarm,alarm,siren>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<null,time,night>
+<Door_Lock,lock,locked>

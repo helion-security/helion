@@ -1,0 +1,16 @@
+<Glass_Break_Detector,shock,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Presence_Sensor,presence,present>
+<Door_Lock,lock,unlocked>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,auto>
+<Air_Purifier,switch,on>
+<Sleep_Monitor,sleeping,detected>
+<Electric_Blanket,switch,on>
+<Door_Sensor,contact,opened>
+<null,time,morning>
+<Presence_Sensor,presence,not_present>
+<Air_Conditioner,thermostat,off>
+<Heater,switch,off>
+<Presence_Sensor,presence,not_present>

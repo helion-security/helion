@@ -1,0 +1,16 @@
+<Glass_Break_Detector,shock,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Air_Conditioner,thermostat,auto>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>

@@ -1,0 +1,17 @@
+<Shades/Blinds,contact,closed>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<null,locationMode,home>
+<null,time,morning>
+<Smart_Mirror,switch,on>
+<Speaker,switch,on>
+<Garage_Door_Opener,signalStrength,lesser>
+<Garage_Door_Opener,contact,closed>
+<Smoke_Detector,smoke,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Gas_Sensor,odorLevel,greater>
+<null,locationMode,not_vacation>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>

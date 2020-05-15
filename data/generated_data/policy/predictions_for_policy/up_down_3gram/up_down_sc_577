@@ -1,0 +1,14 @@
+<Shades/Blinds,contact,closed>
+<null,time,night>
+<Shades/Blinds,contact,closed>
+<null,locationMode,home>
+<null,time,morning>
+<Induction_Cooktop,switch,on>
+<null,locationMode,away>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<null,time,night>
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>

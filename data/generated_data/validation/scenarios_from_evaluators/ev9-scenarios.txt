@@ -1,0 +1,2 @@
+﻿<null,time,morning> <Weather_Station,weather,notify> <Smart_Assistant-Phone,notification-notification,notify-notify> 
+<null,time,night> <Contact_Sensor,contact,opened> <Phone,notification,notify>

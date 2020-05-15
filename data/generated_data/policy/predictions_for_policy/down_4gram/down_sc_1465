@@ -1,0 +1,15 @@
+<Air_Conditioner,thermostat,auto>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Security_Alarm,alarm,siren>
+<Air_Conditioner,thermostat,off>
+<Fan,switch,off>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Camera,switch,on>
+<Lighting_Remote,colorValue,fixed_value>
+<Car_Automation,presence,present>
+<Air_Conditioner,thermostat,off>
+<Fan,switch,off>
+<Light_Bulb,switch,off>

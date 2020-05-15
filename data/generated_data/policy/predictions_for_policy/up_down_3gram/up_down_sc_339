@@ -1,0 +1,13 @@
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<null,time,night>
+<Humidifier,switch,on>
+<Refrigerator,temperature,greater>
+<Refrigerator,switch,on>
+<Moisture_Sensor,water,wet>
+<Heater,switch,on>
+<Moisture_Sensor,water,dry>
+<Contact_Sensor,contact,opened>
+<Security_Camera,image,take>
+<Light_Bulb,switch,off>
+<Motion_Sensor,motion,detected>

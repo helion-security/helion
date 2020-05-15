@@ -1,0 +1,12 @@
+<Humidifier,switch,on>
+<null,time,night>
+<Humidifier,switch,on>
+<Smart_TV,switch,on>
+<null,time,evening>
+<Switches,switch,off>
+<Moisture_Sensor,water,wet>
+<Air_Conditioner,thermostat,auto>
+<Car_Automation,presence,present>
+<Garage_Door_Opener,contact,opened>
+<Car_Automation,presence,present>
+<Garage_Door_Opener,contact,opened>

@@ -1,0 +1,14 @@
+<Security_Alarm,alarm,siren>
+<Contact_Sensor,contact,opened>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Security_Alarm,alarm,siren_strobe>
+<Presence_Sensor,presence,present>
+<Garage_Door_Opener,contact,opened>
+<null,locationMode,away>
+<Air_Purifier,switch,off>
+<Light_Bulb,switch,off>
+<null,locationMode,away>
+<Air_Purifier,switch,off>
+<Light_Bulb,switch,off>

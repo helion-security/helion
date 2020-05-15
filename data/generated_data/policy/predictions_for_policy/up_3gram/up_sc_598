@@ -1,0 +1,12 @@
+<Water_Valve,contact,closed>
+<Water_Leak_Detector,water,wet>
+<Water_Valve,contact,closed>
+<Garage_Door_Opener,contact,opened>
+<Gas_Stove,switch,off>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>
+<Motion_Sensor,motion,detected>

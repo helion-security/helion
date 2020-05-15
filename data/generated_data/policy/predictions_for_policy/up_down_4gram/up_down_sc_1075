@@ -1,0 +1,15 @@
+<Door_Lock,lock,unlocked>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Glass_Break_Detector,shock,detected>
+<Sleep_Monitor,sleeping,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Camera,image,take>
+<Air_Purifier,switch,on>
+<null,time,noon>
+<Robot_Vacuum,switch,on>
+<null,time,night>
+<Smart_TV,channel,fixed_value>
+<Sleep_Monitor,sleeping,detected>
+<Electric_Blanket,switch,on>
+<Sleep_Monitor,sleeping,detected>

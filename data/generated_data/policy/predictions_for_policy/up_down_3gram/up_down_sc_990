@@ -1,0 +1,13 @@
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Dust_Detector,dust,greater>
+<Smoke_Detector,smoke,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<null,time,morning>
+<null,time,morning>
+<Light_Bulb,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>

@@ -1,0 +1,16 @@
+<Smart_TV,channel,fixed_value>
+<Blood_Pressure_Monitor,pressure,lesser>
+<Smart_TV,channel,fixed_value>
+<null,locationMode,kids>
+<Temperature_Sensor,temperature,lesser>
+<null,time,morning>
+<Thermostat,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,time,morning>
+<Thermostat,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,time,afternoon>
+<Thermostat,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,time,night>
+<Thermostat,thermostat,auto>

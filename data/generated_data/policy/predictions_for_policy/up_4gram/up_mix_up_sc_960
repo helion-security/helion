@@ -1,0 +1,16 @@
+<Air_Conditioner,thermostat,auto>
+<CO_Detector,tamper,not_detected>
+<Gas_Sensor,odorLevel,greater>
+<Door_Lock,lock,unlocked>
+<Fan,switch,on>
+<Security_Alarm,alarm,siren_strobe>
+<Temperature_Sensor,temperature,greater>
+<Air_Purifier,airQuality,greater>
+<Air_Purifier,switch,off>
+<null,time,evening>
+<Light_Bulb,colorValue,fixed_value>
+<Gas_Sensor,odorLevel,greater>
+<Security_Alarm,alarm,siren_strobe>
+<Smart_TV,switch,on>
+<Audio_Player,switch,off>
+<null,locationMode,away>

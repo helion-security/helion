@@ -1,0 +1,14 @@
+<Heater,switch,on>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<null,locationMode,home>
+<null,locationMode,away>
+<Smart_Assistant,voice,command>
+<Light_Bulb,switch,off>
+<Smart_Assistant,notification,notify>
+<Smart_Assistant,voice,command>
+<Light_Bulb,switch,on>
+<Smart_Assistant,voice,command>
+<Light_Bulb,switch,on>
+<Smart_Assistant,voice,command>

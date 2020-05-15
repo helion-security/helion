@@ -1,0 +1,15 @@
+<Smart_TV,channel,fixed_value>
+<Door_Lock,lock,unlocked>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Temperature_Sensor,temperature,greater>
+<Sleep_Monitor,sleeping,detected>
+<Air_Conditioner,thermostat,auto>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Shades/Blinds,contact,closed>
+<Moisture_Sensor,water,wet>

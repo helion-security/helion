@@ -1,0 +1,16 @@
+<Fan,switch,off>
+<Garage_Door_Opener,contact,closed>
+<Lighting_Remote,switch,off>
+<Security_Camera,switch,on>
+<null,locationMode,vacation>
+<null,time,afternoon>
+<Lighting_Remote,switch,on>
+<null,time,night>
+<Oil_Warmer,switch,on>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<Pulse_Monitor,pulse,greater>

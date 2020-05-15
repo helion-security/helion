@@ -1,0 +1,16 @@
+<Shades/Blinds,contact,opened>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,away>
+<Door_Lock,lock,unlocked>
+<Fan,switch,on>
+<Security_Alarm,alarm,siren_strobe>
+<Temperature_Sensor,temperature,lesser>
+<Light_Bulb,colorValue,fixed_value>
+<Gas_Sensor,odorLevel,lesser>
+<Security_Alarm,alarm,off>
+<Moisture_Sensor,water,wet>
+<Audio_Player,switch,on>
+<null,time,night>
+<Audio_Player,volume,decreased>

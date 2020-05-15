@@ -1,0 +1,17 @@
+<Thermostat,thermostat,increased>
+<null,locationMode,night>
+<Dishwasher,mode,auto>
+<Lighting_Remote,switch,off>
+<Thermostat,thermostat,auto>
+<Smoke_Detector,smoke,detected>
+<null,locationMode,away>
+<Robot_Vacuum,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Gas_Stove,switch,on>
+<null,timer,completed>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<Door_Sensor,contact,opened>
+<Light_Bulb,switch,on>

@@ -1,0 +1,15 @@
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<Smart_TV,switch,on>
+<Light_Bulb,switch,off>
+<Presence_Sensor,presence,present>
+<Temperature_Sensor,temperature,lesser>
+<Thermostat,thermostat,increased>
+<Air_Conditioner,thermostat,auto>
+<Light_Bulb,colorValue,fixed_value>
+<Presence_Sensor,presence,present>
+<Garage_Door_Opener,contact,opened>
+<Illuminance_Sensor,illuminance,lesser>
+<null,time,night>
+<Light_Bulb,colorValue,fixed_value>
+<Humidity_Sensor,humidity,greater>

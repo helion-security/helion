@@ -1,0 +1,17 @@
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<null,locationMode,home>
+<null,time,evening>
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<null,time,morning>
+<Temperature_Sensor,temperature,greater>
+<null,time,night>
+<Air_Conditioner,thermostat,auto>
+<Glass_Break_Detector,shock,detected>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>
+<Temperature_Sensor,temperature,lesser>

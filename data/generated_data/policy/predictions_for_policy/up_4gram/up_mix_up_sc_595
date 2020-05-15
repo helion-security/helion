@@ -1,0 +1,16 @@
+<Water_Valve,contact,closed>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<null,locationMode,home>
+<null,time,morning>
+<Audio_Player,switch,off>
+<Sleep_Monitor,sleeping,detected>
+<Light_Bulb,switch,off>
+<Smart_TV,switch,off>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Sleep_Monitor,sleeping,detected>
+<Light_Bulb,switch,off>
+<Induction_Cooktop,switch,on>
+<null,locationMode,away>
+<Phone,notification,notify>

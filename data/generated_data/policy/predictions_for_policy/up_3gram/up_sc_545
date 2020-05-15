@@ -1,0 +1,14 @@
+<Door_Lock,lock,unlocked>
+<null,locationMode,home>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Shades/Blinds,contact,opened>
+<Water_Leak_Detector,water,wet>
+<null,time,afternoon>
+<Smart_TV,switch,on>
+<Audio_Player,switch,off>
+<Motion_Sensor,motion,detected>
+<Security_Camera,switch,on>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>

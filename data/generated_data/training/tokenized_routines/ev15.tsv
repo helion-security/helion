@@ -1,0 +1,6 @@
+ResponseId	Trigger	Trigger Token	Action	Action Token	Frequency	Week	Time	Schedule
+R_RLwlxIr2nnYfl7P	the temperature is above 22 degrees	<Temperature_Sensor,temperature,greater>	set airConditionMode cool	<Air_Conditioner,thermostat,decreased>	Few times in a day (1-5/day)	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)
+R_RLwlxIr2nnYfl7P	the temperature is below 22 degrees	<Temperature_Sensor,temperature,lesser>	set airConditionMode heat	<Thermostat,thermostat,increased>	Few times in a day (1-5/day)	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)
+R_RLwlxIr2nnYfl7P	machineState is ready	<Clothes_Dryer,mode,ready>	set the dryerMode High Heat	<Clothes_Dryer,mode,heat>	Few times in a month	Weekend	Around noon (11am-1pm)	Manually-triggered (e.g. |  a button press)
+R_RLwlxIr2nnYfl7P	everyone is Away	<null,locationMode,away>	switch the fan off	<Fan,switch,off>	Few times in a day (1-5/day)	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)
+R_RLwlxIr2nnYfl7P	the time is night	<null,time,night>	set the volume low	<Audio_Player,volume,decreased>	Few times in a day (1-5/day)	Anytime	Night (8pm-6am)	Scheduled-time (e.g. |  brew coffee at 7 am)

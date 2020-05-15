@@ -1,0 +1,15 @@
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Dust_Detector,dust,greater>
+<Robot_Vacuum,switch,on>
+<Air_Conditioner,thermostat,auto>
+<null,locationMode,away>
+<Thermostat,thermostat,auto>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>

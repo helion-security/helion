@@ -1,0 +1,17 @@
+<Light_Bulb,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Heater,switch,on>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Gas_Sensor,odorLevel,lesser>
+<Security_Alarm,alarm,off>
+<Weather_Station,rain,true>
+<Door_Lock,lock,locked>
+<Phone,notification,notify>
+<Shades/Blinds,contact,closed>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Glass_Break_Detector,shock,detected>
+<Security_Alarm,alarm,siren>
+<Doorbell,button,pushed>

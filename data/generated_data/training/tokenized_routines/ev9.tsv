@@ -1,0 +1,7 @@
+ResponseId	Trigger	Trigger Token	Action	Action Token	Frequency	Week	Time	Schedule
+R_3GvODW92aqqmInr	If time is between 6:00 pm AND 11:00 pm	<null,time,evening>	Switch on the light bulb	<Light_Bulb,switch,on>	Few times in a week (1-5/week)	Anytime	Evening (5pm-8pm) | Night (8pm-6am)	Scheduled-time (e.g. |  brew coffee at 7 am)
+R_3GvODW92aqqmInr	If time is 7:30 am	<null,time,morning>	brew the coffee	<Coffee_Maker,switch,on>	Few times in a week (1-5/week)	Anytime	Morning (6am- 11am)	Scheduled-time (e.g. |  brew coffee at 7 am)
+R_3GvODW92aqqmInr	If it is Thursday and time is 8:00 pm	<null,time,night>	Switch on the TV AND tune to channel X	<Smart_TV,channel,fixed_value>	Few times in a month	Weekday	Night (8pm-6am)	Scheduled-time (e.g. |  brew coffee at 7 am)
+R_3GvODW92aqqmInr	If the motion sensor is triggered	<Motion_Sensor,motion,detected>	send an SMS	<Phone,notification,notify>	Not Sure	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)
+R_3GvODW92aqqmInr	If the smoke detector is triggered	<Smoke_Detector,smoke,detected>	send an SMS	<Phone,notification,notify>	Not Sure	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)
+R_3GvODW92aqqmInr	If the temperature is less than 68 F	<Temperature_Sensor,temperature,lesser>	start air conditioning	<Air_Conditioner,thermostat,auto>	Few times in a month	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)

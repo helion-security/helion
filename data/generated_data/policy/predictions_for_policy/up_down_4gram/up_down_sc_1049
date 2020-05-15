@@ -1,0 +1,15 @@
+<Air_Conditioner,thermostat,auto>
+<Blood_Pressure_Monitor,pressure,greater>
+<Smart_TV,channel,fixed_value>
+<Sleep_Monitor,sleeping,not_detected>
+<null,time,morning>
+<Security_Alarm,alarm,siren_strobe>
+<Water_Leak_Detector,water,wet>
+<Water_Valve,contact,closed>
+<Induction_Cooktop,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Phone,notification,notify>
+<Shades/Blinds,contact,closed>
+<Microwave_Oven,switch,off>
+<Moisture_Sensor,water,dry>

@@ -1,0 +1,17 @@
+<Security_Camera,switch,on>
+<Contact_Sensor,contact,opened>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<External_API,news,notify>
+<Thermostat,thermostat,increased>
+<Water_Heater,switch,on>
+<External_API,traffic,notify>
+<Smart_TV,switch,off>
+<Smoke_Detector,smoke,detected>
+<null,locationMode,away>
+<Security_Alarm,alarm,off>
+<null,locationMode,away>
+<null,time,afternoon>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<Dishwasher,weight,greater>

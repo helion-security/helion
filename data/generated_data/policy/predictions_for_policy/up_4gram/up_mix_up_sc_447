@@ -1,0 +1,13 @@
+<Fan,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Fan,switch,on>
+<null,time,night>
+<Dishwasher,weight,greater>
+<Dishwasher,mode,ready>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<null,locationMode,away>
+<Light_Bulb,switch,off>

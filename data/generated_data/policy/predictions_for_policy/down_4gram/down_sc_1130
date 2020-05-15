@@ -1,0 +1,17 @@
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<null,locationMode,away>
+<Smart_Mirror,switch,on>
+<Speaker,switch,on>
+<null,locationMode,vacation>
+<null,time,morning>
+<Smart_TV,switch,on>
+<null,time,evening>
+<Security_Camera,video,record>
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<Weather_Station,weather,notify>
+<Door_Sensor,contact,opened>
+<null,time,morning>

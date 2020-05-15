@@ -1,0 +1,17 @@
+<Bread_Maker,switch,on>
+<Coffee_Maker,switch,on>
+<Water_Heater,switch,on>
+<Rice_Cooker,switch,on>
+<Door_Lock,lock,unlocked>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<null,locationMode,kids>
+<Smart_TV,channel,fixed_value>
+<null,time,noon>
+<Robot_Vacuum,switch,on>
+<null,time,night>
+<Smart_TV,channel,fixed_value>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Button,button,pushed>
+<Light_Bulb,switch,off>

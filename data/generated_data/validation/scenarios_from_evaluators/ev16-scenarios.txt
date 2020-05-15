@@ -1,0 +1,2 @@
+﻿<null,locationMode,away> <Motion_Sensor,motion,detected> <Security_Alarm,alarm,siren_strobe>
+<Smoke_Detector,smoke,detected> <Temperature_Sensor,temperature,greater> <Security_Alarm,alarm,siren_strobe>

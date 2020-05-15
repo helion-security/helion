@@ -1,0 +1,17 @@
+<Coffee_Maker,switch,on>
+<Shades/Blinds,contact,opened>
+<null,locationMode,away>
+<Fan,switch,off>
+<Garage_Door_Opener,contact,closed>
+<Lighting_Remote,switch,off>
+<Security_Camera,switch,on>
+<null,time,night>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<null,time,morning>
+<Shades/Blinds,threeAxis,fixed_value>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<null,time,night>
+<Sleep_Monitor,switch,on>
+<null,locationMode,away>

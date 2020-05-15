@@ -1,0 +1,2 @@
+﻿<null,locationMode,home> <null,time,night> <Pulse_Monitor,pulse,greater> <Light_Bulb-Speaker,colorValue-switch,fixed_value-on>
+<Security_Alarm,alarm,siren_strobe> <null,locationMode,away> <Phone-Security_Camera,notification-image,notify-take>

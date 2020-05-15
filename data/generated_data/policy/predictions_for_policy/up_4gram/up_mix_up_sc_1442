@@ -1,0 +1,13 @@
+<Heater,switch,on>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<null,time,morning>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Illuminance_Sensor,illuminance,greater>
+<Light_Bulb,switch,off>
+<Car_Automation,presence,present>
+<Garage_Door_Opener,contact,opened>
+<Garage_Door_Opener,signalStrength,lesser>

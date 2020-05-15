@@ -1,0 +1,17 @@
+<Door_Lock,lock,unlocked>
+<Fire_Sprinkler,switch,on>
+<Gas_Stove,switch,off>
+<Water_Valve,contact,closed>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Pulse_Monitor,pulse,greater>
+<Presence_Sensor,presence,present>
+<Garage_Door_Opener,contact,opened>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,increased>
+<Glass_Break_Detector,shock,detected>
+<null,locationMode,away>

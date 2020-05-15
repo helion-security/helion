@@ -1,0 +1,2 @@
+﻿<Light_Bulb,switch,on> <Smart_TV,switch,off> <Audio_Player,switch,on>
+<Clothes_Dryer,completion,true> <Clothes_Dryer,contact,closed> <Clothes_Dryer,mode,ready>

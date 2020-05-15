@@ -1,0 +1,17 @@
+<Air_Conditioner,thermostat,auto>
+<Dust_Detector,dust,greater>
+<Robot_Vacuum,switch,on>
+<null,locationMode,away>
+<Smart_TV,switch,on>
+<Audio_Player,switch,off>
+<Bread_Maker,switch,on>
+<Coffee_Maker,switch,on>
+<Water_Heater,switch,on>
+<Rice_Cooker,switch,on>
+<Phone,notification,notify>
+<Thermostat,thermostat,auto>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<null,time,morning>
+<Light_Bulb,switch,off>
+<Air_Purifier,airQuality,greater>

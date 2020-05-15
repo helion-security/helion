@@ -1,11 +1,27 @@
 # Helion
-![](https://img.shields.io/badge/python-2.7.6-brightgreen.svg) 
+![](https://img.shields.io/badge/python-3.7-brightgreen.svg) 
 
 Helion is a data-driven framework that models the regularities of user-driven home automation, generates natural home automation scenarios, and provides stakeholders with tools to use the scenarios and obtain actionable outcomes.
 
-> #### NOTE: We are currently working on deanonymizing the data. We will pubilish the code and the dataset by the conference date i.e., May 18, 2020.
+## Getting Started
+To make it easier to run, respective library files are included in the project itself.
 
-### Getting Started
+### Quick Setup:
+#### 1. Add proper directories to your path:
+
+Execute the Following commands or add them to your .bash_profile to set up your $PATH. **Be sure to replace the paths with 
+local paths on your machine**
+
+```
+export PYTHONPATH=$PYTHONPATH:/Path/to/helion/libs/Daemon/python-daemon-2.2.0/
+export PYTHONPATH=$PYTHONPATH:/Path/to/helion/libs/Daemon/python-daemon-2.2.0/daemon/ 
+export PATH=$PATH:/Path/to/helion/libs/mitlm-master/
+export PATH=$PATH:/Path/to/helion/libs/kramer-master/
+```
+#### 2. Follow the instruction for respective scripts file.
+
+### Alternative Method:
+If the quick setup method does not work, please install the latest version of libraries.
 #### 1. Download necessary files:
 * [MITLM](https://github.com/mitlm/mitlm) - MIT Language Modeling Toolkit
 * [Python Daemon 1.5.5](https://pypi.python.org/pypi/python-daemon/) - Library to implement a well-behaved Unix daemon process.
@@ -50,11 +66,7 @@ $ braind data/helion.train data/helion.vocab
 
 For more detailed instructions on how to interact and instantiate the Brain, see the [README](https://github.com/martingwhite/kramer).
 
-## Execution Engine 
-Coming soon..
-
-## Snapshot Module
-Coming soon..
 
 ### Acknowledgements:
 * [Kramer](https://github.com/martingwhite/kramer)
+* [MITLM](https://github.com/mitlm/mitlm)

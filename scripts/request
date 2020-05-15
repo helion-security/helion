@@ -1,0 +1,1 @@
+{"model": "interpolate", "flavor": "down", "history": ["<Weather_Station,weather,notify>", "<Weather_Station,weather,notify>", "<Phone,notification,notify>"], "length": 10}

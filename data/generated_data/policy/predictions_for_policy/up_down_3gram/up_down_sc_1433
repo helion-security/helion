@@ -1,0 +1,12 @@
+<Door_Lock,lock,locked>
+<null,locationMode,home>
+<Door_Lock,lock,unlocked>
+<null,time,morning>
+<null,locationMode,away>
+<Microwave_Oven,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>

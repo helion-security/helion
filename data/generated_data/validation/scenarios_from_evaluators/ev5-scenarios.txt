@@ -1,0 +1,2 @@
+﻿<null,locationMode,away> <Glass_Break_Detector,shock,detected> <Phone,notification,notify> <Security_Camera,video,record>
+<null,time,night> <null,locationMode,night> <Thermostat,thermostat,decreased> <Door_Lock-Light_Bulb-Security_System,lock-switch-mode,locked-off-armed>

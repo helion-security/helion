@@ -1,0 +1,16 @@
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>
+<Door_Lock,lock,locked>
+<null,time,night>
+<Security_Camera,switch,on>
+<Shades/Blinds,contact,closed>
+<Smart_TV,switch,on>
+<null,time,evening>
+<Beacon_Device,presence,present>
+<Light_Bulb,switch,off>
+<Light_Bulb,switch,on>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Energy_Meter,energy,greater>
+<Gas_Sensor,odorLevel,greater>
+<Security_Alarm,alarm,siren_strobe>

@@ -1,0 +1,17 @@
+<Security_Camera,switch,on>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<CO_Detector,carbonMonoxide,detected>
+<Presence_Sensor,presence,present>
+<Garage_Door_Opener,contact,opened>
+<Beacon_Device,presence,present>
+<Light_Bulb,switch,off>
+<Light_Bulb,switch,on>
+<Motion_Sensor,motion,detected>
+<Security_Camera,switch,on>
+<Bread_Maker,switch,on>
+<Coffee_Maker,switch,on>
+<Water_Heater,switch,on>
+<Rice_Cooker,switch,on>

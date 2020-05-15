@@ -1,0 +1,17 @@
+<Water_Valve,contact,closed>
+<Water_Leak_Detector,water,wet>
+<Water_Valve,contact,closed>
+<Garage_Door_Opener,contact,opened>
+<CO_Detector,carbonMonoxide,detected>
+<null,locationMode,away>
+<Security_Alarm,alarm,strobe>
+<Security_Alarm,alarm,siren_strobe>
+<null,locationMode,away>
+<Air_Cooler,switch,on>
+<Door_Lock,lock,locked>
+<Phone,notification,notify>
+<Shades/Blinds,contact,closed>
+<Air_Cooler,switch,on>
+<Smoke_Detector,smoke,detected>
+<null,locationMode,away>
+<Presence_Sensor,presence,present>

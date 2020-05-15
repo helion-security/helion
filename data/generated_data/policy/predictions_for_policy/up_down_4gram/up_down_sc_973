@@ -1,0 +1,16 @@
+<Door_Lock,lock,unlocked>
+<Fan,switch,on>
+<Security_Alarm,alarm,siren_strobe>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<CO_Detector,tamper,not_detected>
+<Gas_Sensor,odorLevel,greater>
+<Light_Bulb,switch,on>
+<Door_Lock,lock,unlocked>
+<Coffee_Maker,switch,off>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Smart_Assistant,voice,command>
+<Light_Bulb,switch,off>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>

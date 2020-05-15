@@ -1,0 +1,13 @@
+<Light_Bulb,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Contact_Sensor,contact,opened>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,time,night>
+<Audio_Player,mute,muted>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Beacon_Device,presence,present>
+<Audio_Player,switch,off>
+<Beacon_Device,presence,present>

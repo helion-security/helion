@@ -1,0 +1,16 @@
+<Dishwasher,mode,auto>
+<Lighting_Remote,switch,off>
+<Thermostat,thermostat,auto>
+<Gas_Sensor,odorLevel,greater>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<null,locationMode,night>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,off>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,increased>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,greater>

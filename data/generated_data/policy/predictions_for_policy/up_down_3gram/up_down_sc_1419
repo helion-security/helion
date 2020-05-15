@@ -1,0 +1,16 @@
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Heater,switch,on>
+<Air_Conditioner,thermostat,increased>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Temperature_Sensor,temperature,equal>
+<Air_Conditioner,thermostat,off>
+<Temperature_Sensor,temperature,equal>
+<Air_Conditioner,thermostat,off>
+<Light_Bulb,switch,off>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>

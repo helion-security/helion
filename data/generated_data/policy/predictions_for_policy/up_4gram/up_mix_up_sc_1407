@@ -1,0 +1,14 @@
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Motion_Sensor,motion,detected>
+<null,locationMode,away>
+<Gas_Stove,switch,off>
+<null,locationMode,away>
+<Water_Heater,switch,off>
+<null,time,night>
+<Shades/Blinds,contact,closed>
+<null,locationMode,away>
+<Water_Heater,switch,off>
+<null,locationMode,away>

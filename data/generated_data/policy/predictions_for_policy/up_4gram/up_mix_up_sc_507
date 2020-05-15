@@ -1,0 +1,16 @@
+<null,locationMode,away>
+<null,time,afternoon>
+<Robot_Vacuum,switch,on>
+<null,locationMode,vacation>
+<null,time,afternoon>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,increased>
+<Water_Heater,switch,on>
+<Air_Purifier,airQuality,greater>
+<Air_Purifier,switch,off>
+<Air_Purifier,airQuality,greater>
+<Air_Purifier,switch,off>
+<null,time,evening>
+<Light_Bulb,colorValue,fixed_value>
+<null,time,evening>
+<Light_Bulb,colorValue,fixed_value>

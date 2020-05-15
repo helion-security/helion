@@ -1,0 +1,16 @@
+<null,locationMode,kids>
+<Gas_Stove,switch,off>
+<Induction_Cooktop,switch,off>
+<Microwave_Oven,switch,off>
+<Smart_TV,channel,fixed_value>
+<Pulse_Monitor,pulse,greater>
+<Smart_TV,channel,fixed_value>
+<Garage_Door_Opener,contact,opened>
+<Door_Sensor,contact,opened>
+<Light_Bulb,switch,on>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<Thermostat,thermostat,decreased>

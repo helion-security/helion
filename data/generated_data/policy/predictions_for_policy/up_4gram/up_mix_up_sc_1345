@@ -1,0 +1,13 @@
+<Shades/Blinds,contact,opened>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Sprinker,switch,on>
+<Dishwasher,weight,greater>
+<Dishwasher,mode,ready>
+<Dishwasher,weight,greater>
+<Water_Leak_Detector,water,wet>
+<Water_Valve,contact,closed>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>

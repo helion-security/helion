@@ -1,0 +1,13 @@
+<Door_Lock,lock,unlocked>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Thermostat,thermostat,increased>
+<Smoke_Detector,smoke,detected>
+<Energy_Meter,energy,greater>
+<Phone,notification,notify>
+<Beacon_Device,presence,present>
+<Smart_TV,switch,on>
+<Beacon_Device,presence,not_present>
+<Smart_TV,switch,off>

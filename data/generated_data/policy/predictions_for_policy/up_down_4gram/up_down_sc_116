@@ -1,0 +1,15 @@
+<Dishwasher,mode,auto>
+<Lighting_Remote,switch,off>
+<Thermostat,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Thermostat,thermostat,increased>
+<null,locationMode,home>
+<null,time,evening>
+<Shades/Blinds,contact,opened>
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Microwave_Oven,switch,off>
+<Sleep_Monitor,sleeping,not_detected>
+<Smart_TV,channel,fixed_value>
+<Security_Alarm,alarm,siren_strobe>

@@ -1,0 +1,17 @@
+<Air_Conditioner,thermostat,auto>
+<Contact_Sensor,contact,opened>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Light_Bulb,switch,off>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,on>
+<Motion_Sensor,motion,not_detected>
+<Light_Bulb,switch,off>
+<Bread_Maker,switch,off>
+<null,time,morning>
+<Bread_Maker,switch,on>
+<Glass_Break_Detector,shock,detected>
+<Security_Camera,switch,on>
+<Sleep_Monitor,sleeping,detected>

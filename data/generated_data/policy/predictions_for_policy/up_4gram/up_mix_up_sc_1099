@@ -1,0 +1,15 @@
+<Security_Alarm,alarm,siren>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Motion_Sensor,motion,detected>
+<Glass_Break_Detector,shock,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Glass_Break_Detector,shock,detected>
+<Security_Camera,switch,on>
+<null,locationMode,vacation>
+<null,time,morning>
+<Air_Cooler,switch,off>
+<Audio_Player,switch,on>
+<Phone,notification,notify>
+<Shades/Blinds,contact,opened>
+<null,locationMode,night>

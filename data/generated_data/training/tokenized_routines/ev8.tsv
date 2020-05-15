@@ -1,0 +1,6 @@
+ResponseId	Trigger	Trigger Token	Action	Action Token	Frequency	Week	Time	Schedule
+R_27rGQxA9NCOiuhB	it is 6:00 am	<null,time,morning>	switch the coffee maker on	<Coffee_Maker,switch,on>	Few times in a day (1-5/day)	Anytime	Morning (6am- 11am)	Scheduled-time (e.g. |  brew coffee at 7 am)
+R_27rGQxA9NCOiuhB	the water tank is empty	<Coffee_Maker,waterLevel,lesser>	switch the coffee maker off	<Coffee_Maker,switch,off>	Few times in a day (1-5/day)	Anytime	Morning (6am- 11am)	Executed at random (e.g. |  every time I enter the room)
+R_27rGQxA9NCOiuhB	the weather channel predicts lower temperatures at night	<Temperature_Sensor,temperature,lesser>	recommend the optimal level to have a warm sleep	<Phone,notification,notify>	Many times in a day (5+ /day)	Anytime	Evening (5pm-8pm)	Executed at random (e.g. |  every time I enter the room)
+R_27rGQxA9NCOiuhB	the weather channel predicts higher temperatures at night	<Temperature_Sensor,temperature,greater>	recommend the optimal level to have a fresh sleep	<Phone,notification,notify>	Many times in a day (5+ /day)	Anytime	Evening (5pm-8pm)	Executed at random (e.g. |  every time I enter the room)
+R_27rGQxA9NCOiuhB	the basket is full of plates	<Dishwasher,weight,greater>	start a dishwasher cycle	<Dishwasher,mode,ready>	Few times in a day (1-5/day)	Anytime	Anytime	Executed at random (e.g. |  every time I enter the room)

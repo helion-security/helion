@@ -1,0 +1,16 @@
+<null,locationMode,away>
+<null,time,afternoon>
+<Robot_Vacuum,switch,on>
+<null,locationMode,vacation>
+<null,time,afternoon>
+<Lighting_Remote,switch,on>
+<Air_Conditioner,thermostat,decreased>
+<CO_Detector,carbonMonoxide,detected>
+<null,locationMode,not_vacation>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Sleep_Monitor,sleeping,detected>
+<null,time,night>
+<Fan,switch,on>

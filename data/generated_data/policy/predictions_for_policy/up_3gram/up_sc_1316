@@ -1,0 +1,16 @@
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Security_Alarm,alarm,siren_strobe>
+<Moisture_Sensor,water,wet>
+<Security_Alarm,alarm,siren_strobe>
+<Water_Leak_Detector,water,wet>
+<Water_Valve,contact,closed>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>
+<Beacon_Device,presence,not_present>
+<Light_Bulb,switch,on>
+<Light_Bulb,switch,off>

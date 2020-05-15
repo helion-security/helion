@@ -1,0 +1,14 @@
+<Air_Conditioner,thermostat,auto>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Motion_Sensor,motion,detected>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,off>
+<Fan,switch,off>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Motion_Sensor,motion,detected>
+<Security_Camera,video,record>
+<Temperature_Sensor,temperature,greater>

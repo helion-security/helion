@@ -1,0 +1,7 @@
+ResponseId	Trigger		Action		Frequency	Week	Time	Schedule
+R_11cnbD1AGzeG2Tw	workday AND work time AND Motion Sensor detects motion	<Motion_Sensor-null,motion-time,detected-afternoon>	Security Alarm - setAlarmMode to Siren	<Security_Alarm,alarm,siren>	Few times in a year	Weekday	Around noon (11am-1pm) | Afternoon (1pm-5pm)	
+R_11cnbD1AGzeG2Tw	workday AND work time AND Motion Sensor detects motion	<Motion_Sensor-null,motion-time,detected-afternoon>	Security Camera - take an image	<Security_Camera,image,take>	Few times in a year	Weekday	Around noon (11am-1pm) | Afternoon (1pm-5pm)	
+R_11cnbD1AGzeG2Tw	Night AND Motion Sensor detects motion	<Motion_Sensor-null,motion-time,detected-night>	Security Camera - take an image	<Security_Camera,image,take>	Few times in a year		Not sure	
+R_11cnbD1AGzeG2Tw	Gas Sensor oderLevel > Threshold	<Gas_Sensor,odorLevel,greater>	Gas Stove - turn off	<Gas_Stove,switch,off>	Few times in a year	Anytime	Anytime	
+R_11cnbD1AGzeG2Tw	Gas Sensor oderLevel > Threshold	<Gas_Sensor,odorLevel,greater>	Security Alarm - setAlarmMode to Siren and Strobe	<Security_Alarm,alarm,siren_strobe>	Few times in a year	Anytime	Anytime	
+R_11cnbD1AGzeG2Tw	CO Detector carbonMonoxide > Threshold	<CO_Detector,carbonMonoxide,detected>	Security Alarm - setAlarmMode to Siren and Strobe	<Security_Alarm,alarm,siren_strobe>	Few times in a year	Anytime	Anytime	

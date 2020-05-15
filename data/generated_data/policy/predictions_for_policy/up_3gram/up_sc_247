@@ -1,0 +1,15 @@
+<Gas_Sensor,odorLevel,greater>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Gas_Sensor,odorLevel,greater>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Light_Bulb,colorValue,fixed_value>
+<Sleep_Monitor,sleeping,detected>
+<Light_Bulb,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<null,locationMode,away>

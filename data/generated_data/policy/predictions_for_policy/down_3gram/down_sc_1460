@@ -1,0 +1,17 @@
+<Door_Lock,lock,locked>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<null,time,morning>
+<CO_Detector,tamper,not_detected>
+<Gas_Sensor,odorLevel,greater>
+<CO_Detector,carbonMonoxide,detected>
+<null,locationMode,away>
+<Thermostat,thermostat,increased>
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Pulse_Monitor,switch,on>
+<Oil_Warmer,switch,on>
+<Smoke_Detector,smoke,detected>
+<Temperature_Sensor,temperature,greater>
+<Smart_Mirror,switch,on>
+<Speaker,switch,on>

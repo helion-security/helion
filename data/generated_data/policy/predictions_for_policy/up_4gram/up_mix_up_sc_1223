@@ -1,0 +1,14 @@
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<Security_Camera,switch,on>
+<Weather_Station,rain,true>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Oil_Warmer,switch,on>
+<Robot_Vacuum,switch,on>
+<Smart_TV,switch,on>
+<null,time,night>
+<Sleep_Monitor,switch,on>
+<null,time,night>

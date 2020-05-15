@@ -1,0 +1,17 @@
+<Shades/Blinds,contact,closed>
+<null,locationMode,home>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Shades/Blinds,contact,opened>
+<null,locationMode,home>
+<null,time,morning>
+<Air_Purifier,switch,on>
+<Humidity_Sensor,humidity,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Fan,switch,on>
+<Smoke_Detector,smoke,detected>
+<Security_Alarm,alarm,siren>

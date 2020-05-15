@@ -1,0 +1,2 @@
+﻿<null,time,night> <null,locationMode,home> <Bath_Tub,water,warm>
+<Presence_Sensor,presence,not_present> <null,locationMode,away> <Smart_Feeder,food,fill>

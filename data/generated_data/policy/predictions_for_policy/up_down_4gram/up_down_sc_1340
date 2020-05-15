@@ -1,0 +1,13 @@
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Contact_Sensor,contact,opened>
+<Shades/Blinds,contact,closed>
+<Moisture_Sensor,water,dry>
+<Heater,switch,off>
+<Refrigerator,temperature,greater>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>
+<Humidity_Sensor,humidity,lesser>
+<Humidifier,switch,on>

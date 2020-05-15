@@ -1,0 +1,14 @@
+<Light_Bulb,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Heater,switch,on>
+<Motion_Sensor,motion,detected>
+<Humidity_Sensor,humidity,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Air_Purifier,airQuality,lesser>
+<null,locationMode,away>
+<Gas_Stove,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Air_Purifier,airQuality,lesser>

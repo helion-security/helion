@@ -1,0 +1,2 @@
+﻿<null,locationMode,home> <null,time,night> <Thermostat,thermostat,auto> 
+<null,time,morning> <Rice_Cooker,switch,on> <Presence_Sensor,presence,present>

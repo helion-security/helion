@@ -1,0 +1,16 @@
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<Presence_Sensor,presence,present>
+<Door_Lock,lock,unlocked>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,auto>
+<null,locationMode,away>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Refrigerator,temperature,greater>
+<Refrigerator,switch,on>
+<Moisture_Sensor,water,wet>
+<Heater,switch,on>
+<Moisture_Sensor,water,dry>
+<Heater,switch,off>
+<Refrigerator,temperature,greater>

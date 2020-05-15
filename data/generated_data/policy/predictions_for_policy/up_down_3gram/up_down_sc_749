@@ -1,0 +1,14 @@
+<Glass_Break_Detector,shock,detected>
+<Sleep_Monitor,sleeping,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Camera,image,take>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,decreased>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>

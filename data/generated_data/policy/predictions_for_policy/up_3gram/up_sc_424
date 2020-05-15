@@ -1,0 +1,16 @@
+<Security_Camera,switch,on>
+<Shades/Blinds,contact,closed>
+<Smart_TV,switch,on>
+<null,time,evening>
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>
+<null,time,night>
+<Moisture_Sensor,water,dry>
+<Heater,switch,off>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<Moisture_Sensor,water,dry>
+<Heater,switch,off>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<Air_Purifier,airQuality,lesser>

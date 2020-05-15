@@ -1,0 +1,16 @@
+<Glass_Break_Detector,shock,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<null,locationMode,home>
+<null,time,evening>
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<Light_Bulb,switch,off>
+<Induction_Cooktop,switch,on>
+<null,locationMode,away>
+<Phone,notification,notify>
+<Sleep_Monitor,sleeping,detected>
+<Air_Conditioner,thermostat,auto>
+<Dust_Detector,dust,greater>
+<Phone,notification,notify>
+<Sleep_Monitor,sleeping,detected>

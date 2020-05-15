@@ -1,0 +1,15 @@
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Heater,switch,on>
+<null,locationMode,home>
+<Illuminance_Sensor,illuminance,lesser>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Fan,switch,on>
+<Smart_Mirror,switch,on>
+<Speaker,switch,on>
+<null,locationMode,away>

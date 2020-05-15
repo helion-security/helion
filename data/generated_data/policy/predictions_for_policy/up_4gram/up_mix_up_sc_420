@@ -1,0 +1,14 @@
+<Shades/Blinds,contact,opened>
+<Temperature_Sensor,temperature,greater>
+<Fan,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Fan,switch,on>
+<Door_Lock,lock,unlocked>
+<null,time,night>
+<Door_Lock,lock,locked>
+<Temperature_Sensor,temperature,greater>
+<Air_Cooler,switch,on>
+<Temperature_Sensor,temperature,greater>

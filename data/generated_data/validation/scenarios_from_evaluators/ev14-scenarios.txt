@@ -1,0 +1,2 @@
+﻿<Doorbell-null,button-time,pushed-night> <Light_Bulb,switch,on> <Security_Camera,image,take> <Phone,notification,notify>
+<null,locationMode,away> <Garage_Door_Opener,contact,opened> <Light_Bulb,switch,off> <Shades/Blinds,contact,closed> <Security_Camera,switch,on>

@@ -1,0 +1,15 @@
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>
+<null,locationMode,away>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<null,locationMode,away>
+<Thermostat,thermostat,auto>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<Door_Sensor,contact,opened>
+<Light_Bulb,switch,on>
+<Induction_Cooktop,switch,on>
+<null,locationMode,away>

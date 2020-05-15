@@ -1,0 +1,14 @@
+<Light_Bulb,switch,on>
+<Contact_Sensor,contact,opened>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<null,locationMode,away>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<Security_Camera,switch,on>
+<null,locationMode,vacation>
+<null,time,morning>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,not_vacation>

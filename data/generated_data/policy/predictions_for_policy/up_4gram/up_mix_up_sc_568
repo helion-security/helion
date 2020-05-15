@@ -1,0 +1,14 @@
+<Door_Lock,lock,unlocked>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<Presence_Sensor,presence,not_present>
+<null,time,afternoon>
+<Shades/Blinds,contact,closed>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<Pulse_Monitor,pulse,greater>
+<Oil_Warmer,switch,on>
+<Blood_Pressure_Monitor,pressure,greater>
+<Phone,notification,notify>
+<Humidity_Sensor,humidity,greater>
+<Temperature_Sensor,temperature,greater>

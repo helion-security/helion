@@ -1,0 +1,14 @@
+<null,time,night>
+<Shades/Blinds,contact,closed>
+<null,locationMode,home>
+<null,time,morning>
+<Coffee_Maker,switch,on>
+<Shades/Blinds,contact,opened>
+<Light_Bulb,colorValue,fixed_value>
+<Humidity_Sensor,humidity,greater>
+<Humidity_Sensor,humidity,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<null,time,night>
+<Light_Bulb,switch,off>
+<Smart_TV,switch,off>

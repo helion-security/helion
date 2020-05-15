@@ -1,0 +1,15 @@
+<Security_Camera,switch,on>
+<Shades/Blinds,contact,closed>
+<null,time,night>
+<Humidifier,switch,on>
+<Smart_TV,switch,on>
+<null,time,night>
+<Security_Alarm,alarm,siren_strobe>
+<Illuminance_Sensor,illuminance,greater>
+<Light_Bulb,switch,off>
+<Car_Automation,presence,present>
+<Garage_Door_Opener,contact,opened>
+<Garage_Door_Opener,signalStrength,lesser>
+<Garage_Door_Opener,contact,closed>
+<Illuminance_Sensor,illuminance,lesser>
+<Light_Bulb,switch,on>

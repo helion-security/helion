@@ -1,0 +1,17 @@
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<null,locationMode,home>
+<Door_Lock,lock,unlocked>
+<Air_Conditioner,thermostat,off>
+<Refrigerator,thermostat,decreased>
+<Water_Heater,switch,off>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Security_Alarm,alarm,siren_strobe>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Security_Alarm,alarm,siren_strobe>
+<Phone,notification,notify>
+<Car_Automation,switch,on>
+<Garage_Door_Opener,contact,opened>
+<Sleep_Monitor,sleeping,detected>

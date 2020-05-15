@@ -1,0 +1,14 @@
+<Motion_Sensor,motion,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Smart_TV,switch,on>
+<Light_Bulb,switch,off>
+<Light_Bulb,switch,on>
+<Phone,notification,notify>
+<null,locationMode,away>
+<Thermostat,thermostat,auto>
+<null,locationMode,away>
+<Thermostat,thermostat,auto>
+<null,time,morning>
+<Shades/Blinds,contact,opened>
+<null,locationMode,away>

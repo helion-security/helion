@@ -1,0 +1,17 @@
+<Presence_Sensor,presence,present>
+<Door_Lock,lock,unlocked>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,auto>
+<Motion_Sensor,motion,detected>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Alarm,alarm,siren_strobe>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Security_Alarm,alarm,siren_strobe>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>
+<Security_Alarm,alarm,siren_strobe>
+<Door_Sensor,contact,opened>
+<Light_Bulb,switch,on>
+<Sleep_Monitor,sleeping,detected>

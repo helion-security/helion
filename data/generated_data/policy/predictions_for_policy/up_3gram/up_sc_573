@@ -1,0 +1,13 @@
+<Door_Lock,lock,unlocked>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<Garage_Door_Opener,contact,opened>
+<Phone,notification,notify>
+<Glass_Break_Detector,shock,detected>
+<Security_Camera,switch,on>
+<Moisture_Sensor,water,wet>
+<Door_Lock,lock,locked>
+<Dishwasher,weight,greater>
+<Dishwasher,mode,ready>
+<Dishwasher,weight,greater>
+<Dishwasher,mode,ready>

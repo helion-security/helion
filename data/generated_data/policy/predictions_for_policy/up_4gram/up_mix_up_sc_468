@@ -1,0 +1,15 @@
+<Security_Camera,switch,on>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<Doorbell,button,pushed>
+<Contact_Sensor,contact,opened>
+<null,time,night>
+<Security_Alarm,alarm,siren_strobe>
+<Contact_Sensor,contact,opened>
+<null,time,night>
+<Security_Alarm,alarm,siren_strobe>
+<Humidity_Sensor,humidity,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,evening>
+<Light_Bulb,colorValue,fixed_value>
+<null,time,evening>

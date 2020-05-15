@@ -1,0 +1,17 @@
+<Heater,switch,on>
+<Contact_Sensor,contact,opened>
+<Security_Camera,switch,on>
+<null,locationMode,home>
+<Bread_Maker,switch,on>
+<Coffee_Maker,switch,on>
+<Water_Heater,switch,on>
+<Rice_Cooker,switch,on>
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>
+<CO_Detector,tamper,not_detected>
+<Gas_Sensor,odorLevel,greater>
+<Door_Lock,lock,unlocked>
+<Smoke_Detector,smoke,detected>
+<Temperature_Sensor,temperature,greater>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,home>

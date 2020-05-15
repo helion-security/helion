@@ -1,0 +1,15 @@
+<Smart_TV,channel,fixed_value>
+<Pulse_Monitor,pulse,lesser>
+<Smart_TV,channel,fixed_value>
+<null,locationMode,kids>
+<Air_Conditioner,thermostat,auto>
+<Oil_Warmer,switch,on>
+<Robot_Vacuum,switch,on>
+<Smart_TV,switch,on>
+<null,time,night>
+<Door_Lock,lock,locked>
+<CO_Detector,carbonMonoxide,detected>
+<null,locationMode,away>
+<null,locationMode,away>
+<Gas_Stove,switch,off>
+<Pulse_Monitor,pulse,greater>

@@ -1,0 +1,16 @@
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,home>
+<Heater,switch,on>
+<null,locationMode,away>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Air_Conditioner,thermostat,off>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,not_vacation>
+<Air_Conditioner,thermostat,increased>
+<Moisture_Sensor,water,wet>
+<Air_Conditioner,thermostat,auto>
+<Temperature_Sensor,temperature,greater>

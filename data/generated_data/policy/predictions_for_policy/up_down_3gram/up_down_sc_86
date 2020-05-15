@@ -1,0 +1,16 @@
+<Light_Bulb,switch,off>
+<Presence_Sensor,presence,present>
+<Door_Lock,lock,unlocked>
+<Lighting_Remote,switch,on>
+<Thermostat,thermostat,auto>
+<null,time,morning>
+<Air_Cooler,switch,on>
+<Shades/Blinds,contact,opened>
+<null,locationMode,home>
+<Moisture_Sensor,water,wet>
+<Heater,switch,on>
+<Air_Purifier,airQuality,lesser>
+<Air_Purifier,switch,on>
+<null,locationMode,away>
+<Robot_Vacuum,switch,on>
+<Motion_Sensor,motion,not_detected>

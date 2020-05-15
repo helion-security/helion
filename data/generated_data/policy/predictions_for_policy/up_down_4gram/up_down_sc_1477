@@ -1,0 +1,16 @@
+<Door_Lock,lock,unlocked>
+<Doorbell,button,pushed>
+<null,locationMode,home>
+<Security_Camera,switch,on>
+<null,locationMode,home>
+<Illuminance_Sensor,illuminance,lesser>
+<null,time,night>
+<Smart_Assistant,voice,command>
+<Temperature_Sensor,temperature,lesser>
+<null,locationMode,away>
+<Thermostat,thermostat,increased>
+<null,locationMode,away>
+<null,time,night>
+<Light_Bulb,switch,off>
+<Temperature_Sensor,temperature,greater>
+<null,locationMode,away>

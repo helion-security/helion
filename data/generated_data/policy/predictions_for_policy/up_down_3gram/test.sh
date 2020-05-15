@@ -1,0 +1,1 @@
+for file in up_*; do mv "$file" "${file/_mix_up_sc/_down_sc}"; done

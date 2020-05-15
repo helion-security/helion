@@ -1,0 +1,2 @@
+﻿<Gas_Sensor,odorLevel,greater> <Phone,notification,notify> <Security_Alarm,alarm,siren_strobe>
+<null,locationMode,vacation> <Security_Camera,switch,on> <Air_Conditioner,thermostat,off>

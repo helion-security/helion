@@ -1,0 +1,2 @@
+﻿<Smart_Assistant,voice,command> <Light_Bulb,switch,off> <Shades/Blinds,contact,closed> <Sleep_Monitor,switch,on> <Smart_Assistant,notification,notify> <Speaker,switch,on>
+<Smart_Assistant,voice,command> <Smart_Assistant,notification,notify> <Weather_Station,weather,notify> <External_API,news,notify> <Thermostat,thermostat,increased>

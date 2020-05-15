@@ -1,0 +1,15 @@
+<Air_Conditioner,thermostat,auto>
+<Glass_Break_Detector,shock,detected>
+<Sleep_Monitor,sleeping,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Security_Camera,image,take>
+<null,locationMode,kids>
+<Air_Conditioner,thermostat,off>
+<Heater,switch,off>
+<Dust_Detector,dust,greater>
+<Phone,notification,notify>
+<Motion_Sensor,motion,not_detected>
+<Robot_Vacuum,switch,on>
+<Motion_Sensor,motion,not_detected>
+<Light_Bulb,switch,off>
+<Shades/Blinds,contact,closed>

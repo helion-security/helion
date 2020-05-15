@@ -1,0 +1,16 @@
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<null,locationMode,home>
+<null,time,evening>
+<Gas_Stove,switch,on>
+<Speaker,switch,on>
+<Presence_Sensor,presence,present>
+<Garage_Door_Opener,signalStrength,lesser>
+<Garage_Door_Opener,contact,closed>
+<Smoke_Detector,smoke,detected>
+<Security_Alarm,alarm,siren_strobe>
+<Garage_Door_Opener,signalStrength,lesser>
+<Garage_Door_Opener,contact,closed>
+<Illuminance_Sensor,illuminance,lesser>
+<Light_Bulb,switch,on>
+<Coffee_Maker,temperature,greater>

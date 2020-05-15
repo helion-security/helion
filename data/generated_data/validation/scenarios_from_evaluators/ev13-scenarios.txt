@@ -1,0 +1,2 @@
+﻿<null,locationMode,away> <Motion_Sensor,motion,detected> <Security_Alarm,alarm,siren_strobe>
+<null,locationMode,away> <Motion_Sensor,motion,detected> <Security_Camera,image,take> <Phone,notification,notify>

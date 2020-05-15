@@ -1,0 +1,13 @@
+<Smart_TV,switch,on>
+<Light_Bulb,switch,off>
+<Smart_TV,switch,on>
+<Light_Bulb,switch,off>
+<Thermostat,thermostat,increased>
+<null,locationMode,away>
+<Thermostat,thermostat,increased>
+<Weather_Station,rain,false>
+<null,time,morning>
+<Sprinker,switch,on>
+<Energy_Meter,energy,greater>
+<null,locationMode,away>
+<Gas_Stove,switch,off>

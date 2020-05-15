@@ -1,0 +1,2 @@
+﻿<null,locationMode,away> <Shades/Blinds,contact,closed> <Garage_Door_Opener,contact,closed> <Security_System,mode,armed>
+<Phone,notification,notify> <Security_Camera,switch,on> <Doorbell,button,pushed> <Phone,notification,notify>

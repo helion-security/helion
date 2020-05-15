@@ -1,0 +1,2 @@
+﻿<Door_Sensor,contact,opened> <Motion_Sensor,motion,detected> <Security_Alarm,alarm,siren_strobe>
+<null,locationMode,home> <Temperature_Sensor,temperature,lesser> <Thermostat,thermostat,increased>

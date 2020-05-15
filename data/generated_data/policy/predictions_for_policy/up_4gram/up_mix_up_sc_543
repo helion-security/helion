@@ -1,0 +1,17 @@
+<Security_Alarm,alarm,siren>
+<Garage_Door_Opener,contact,opened>
+<Door_Lock,lock,unlocked>
+<null,locationMode,home>
+<null,time,morning>
+<Light_Bulb,switch,on>
+<Temperature_Sensor,temperature,lesser>
+<Air_Conditioner,thermostat,increased>
+<Glass_Break_Detector,shock,detected>
+<null,locationMode,away>
+<Phone,notification,notify>
+<Security_Alarm,alarm,siren_strobe>
+<null,time,morning>
+<Light_Bulb,colorValue,fixed_value>
+<Shades/Blinds,contact,opened>
+<Door_Sensor,contact,opened>
+<null,locationMode,away>

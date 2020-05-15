@@ -1,0 +1,17 @@
+<Gas_Stove,switch,off>
+<Induction_Cooktop,switch,off>
+<Microwave_Oven,switch,off>
+<Smart_TV,channel,fixed_value>
+<Door_Lock,lock,unlocked>
+<Door_Lock,lock,locked>
+<Security_Camera,image,take>
+<Pulse_Monitor,pulse,greater>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<null,time,morning>
+<Shades/Blinds,threeAxis,fixed_value>
+<null,locationMode,vacation>
+<Phone,notification,notify>
+<null,locationMode,home>
+<Air_Conditioner,thermostat,auto>
+<Smoke_Detector,tamper,detected>

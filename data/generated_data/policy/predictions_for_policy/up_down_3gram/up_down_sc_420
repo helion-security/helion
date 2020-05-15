@@ -1,0 +1,16 @@
+<Shades/Blinds,contact,opened>
+<Temperature_Sensor,temperature,greater>
+<Fan,switch,on>
+<Temperature_Sensor,temperature,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<null,time,night>
+<Shades/Blinds,threeAxis,fixed_value>
+<null,time,night>
+<Air_Conditioner,thermostat,off>
+<Door_Lock,lock,locked>
+<Garage_Door_Opener,contact,closed>
+<Gas_Stove,switch,off>
+<Security_Alarm,alarm,siren_strobe>

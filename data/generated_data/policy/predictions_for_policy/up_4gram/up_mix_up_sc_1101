@@ -1,0 +1,14 @@
+<Door_Lock,lock,locked>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Contact_Sensor,contact,opened>
+<Light_Bulb,switch,off>
+<Motion_Sensor,motion,detected>
+<Light_Bulb,switch,on>
+<Humidity_Sensor,humidity,greater>
+<Temperature_Sensor,temperature,greater>
+<Air_Conditioner,thermostat,auto>
+<Doorbell,button,pushed>
+<Security_Camera,switch,on>
+<null,locationMode,away>
+<Door_Lock,lock,locked>

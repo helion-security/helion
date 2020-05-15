@@ -1,0 +1,3 @@
+setuptools
+lockfile >=0.10
+docutils

@@ -1,0 +1,1 @@
+{"model": "interpolate", "flavor": "down", "history": ["<Humidity_Sensor,humidity,greater>", "<Smart_Mirror,switch,off>", "<Humidity_Sensor,humidity,greater>", "<Smart_Mirror,switch,off>", "<Doorbell,button,pushed>", "<Security_Camera,switch,on>", "<Doorbell,button,pushed>", "<Security_Camera,switch,on>"], "length": 3}
